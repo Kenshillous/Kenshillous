@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kenshillous
+- 👀 I’m interested in SQL, Social Engineering
+- 🌱 I’m currently learning Python
+- 💞️ I’m a Freelancer
+- 📫 How to reach me kenshillous@gmail.com
